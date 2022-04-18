@@ -1,0 +1,11 @@
+Name
+DOB
+email
+Experience
+Qualification
+Languages
+
+
+svm 
+naive bayees
+nlp vectorization
